@@ -1,0 +1,14 @@
+1. Change database name and password in .env file.
+
+
+
+2. run this comand in terminal
+
+	npm install
+
+	npm run dev 
+
+	php artisan db:seed
+3. login email: admin@admin.com
+		 password:  password
+
