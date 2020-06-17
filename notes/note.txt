@@ -1,14 +1,19 @@
-1. Change database name and password in .env file.
+1. create .env file inside main app directory
+
+copy code from .env.example and paste into .env file.
+
+3. create database
+
+4. Change database name and password in .env file.
 
 
 
-2. run this comand in terminal
-
+5. run this comand in terminal
+	composer install
 	npm install
 
 	npm run dev 
 
 	php artisan db:seed
-3. login email: admin@admin.com
+6. login email: admin@admin.com
 		 password:  password
-
