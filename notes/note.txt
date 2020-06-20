@@ -13,6 +13,7 @@ copy code from .env.example and paste into .env file.
 	npm install
 
 	npm run dev 
+    php artisan migrate
 
 	php artisan db:seed
 6. login email: admin@admin.com
